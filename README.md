@@ -10,24 +10,4 @@
 <source src="video-file.ogg" type="video/ogg">
     </video>
 </body>
-<
-    body {
-            display: flex;
-            justify-content: center; align-items: center; 
-            height: 100vh; 
-            margin: 0;
-            background-color:
-        #f0f0f0;
-        }
-.foto1 {
-            max-width: 100%;        
-            height: auto;          
-            border: 2px solid #333;
-        }
-.foto2 {
-            max-width: 100%;        
-            height: auto;          
-            border: 2px solid #333;
-        }
-</style>
 </html>
