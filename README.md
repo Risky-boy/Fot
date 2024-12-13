@@ -6,5 +6,5 @@
 
 
    <div id="bodyblur">
-     <!-- Wallpaper / Background --><img src="sayang.jpg" id="wallpaper"/>
+     <!-- Wallpaper / Background --><img src="Fotoram.io.jpg" id="wallpaper"/>
    </div>
