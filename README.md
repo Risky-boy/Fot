@@ -10,21 +10,24 @@
 <source src="video-file.ogg" type="video/ogg">
     </video>
 </body>
-    <title>Center Image</title>
-<style>
-        /* Membuat kontainer memenuhi seluruh layar */
-body {
+<
+    body {
             display: flex;
-            justify-content: center; /* Horizontal (ke tengah) */
-            align-items: center;    /* Vertikal (ke tengah) */
-            height: 100vh;          /* Tinggi penuh layar */
+            justify-content: center; align-items: center; 
+            height: 100vh; 
             margin: 0;
-            background-color: #f0f0f0; /* Warna latar belakang */
+            background-color:
+        #f0f0f0;
         }
 img {
-            max-width: 100%;        /* Agar gambar tidak melebihi lebar layar */
-            height: auto;           /* Menjaga rasio gambar */
-            border: 2px solid #333; /* Opsional: Tambahkan border */
+            max-width: 100%;        
+            height: auto;          
+            border: 2px solid #333;
+        }
+img {
+            max-width: 100%;        
+            height: auto;          
+            border: 2px solid #333;
         }
 </style>
 </html>
